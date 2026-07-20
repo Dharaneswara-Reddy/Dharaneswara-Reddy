@@ -1,30 +1,39 @@
+<div align="center">
 
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-## Hey there, I'm Venkata Dharaneswara Reddy
+<h3><code>venkat@github ~ $ ./contributions.sh</code></h3>
 
-Welcome to my GitHub! I'm a BTech student from Bengaluru, India, deeply interested in Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent systems and working on real-world problems by combining strong fundamentals with practical implementation.
+<img src="./contrib-heatmap.svg" width="860" alt="Venkat's GitHub contribution graph — auto-refreshed daily" />
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5b2RvcnNramQ3amI5bm1oYTFzZmtuZGJqcHdhYXNuYWF4NjJtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="500" />
-</p>
+<br>
+<br>
 
-## About Me
+<h3><code>venkat@github ~ $ whoami</code></h3>
 
-- Currently working on: Churn Prediction ML System -> Starting from a single train.py file and taking it to a industry grade
-- BTech student with a strong foundation in Python, Java, and core ML,DL concepts
-- Passionate about machine learning systems, deep learning, and applied AI
-- I enjoy experimenting — from classical ML models to deep learning architectures
+<table>
+<tr>
+<td valign="top"><img src="./venkat-ascii.svg" width="370" alt="Dharaneswara Reddy — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Dharaneswara Reddy — experience, stack, highlights" /></td>
+</tr>
+</table>
 
-## Tech Stack
+<br>
+<br>
 
-- Languages: Python, Java, SQL
-- Frameworks & Libraries: PyTorch, Scikit-learn, Pandas, NumPy
-- AI / ML: Machine Learning, Deep Learning, NLP, Reinforcement Learning.
-- Tools & Platforms: Git, GitHub, Linux, VS Code, Docker
+<h3><code>venkat@github ~ $ ./links.sh</code></h3>
 
-## Let's Connect
+<p><b>ML Engineer · Deep Learning · Builder</b></p>
 
-- Email: dharaneswar339@gmail.com
-- LinkedIn: https://www.linkedin.com/in/palle-venkata-reddy
+[![Email](https://img.shields.io/badge/Email-dharaneswar339@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharaneswar339@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-palle--venkata--reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palle-venkata-reddy)
+[![GitHub](https://img.shields.io/badge/GitHub-Dharaneswara--Reddy-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharaneswara-Reddy)
 
-> "Build -> Break -> Fix" – Venkat
+<br>
+
+> *"Build → Break → Fix"* – Venkat
+
+<br>
+
+</div>
