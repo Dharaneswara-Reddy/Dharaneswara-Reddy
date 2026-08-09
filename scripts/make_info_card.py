@@ -19,14 +19,14 @@ VAL_X = PAD + 108
 LINE_H = 20.5
 
 BG = "#0d1117"
-BG2 = "#111722"
+BG2 = "#0a101f"
 FRAME = "#30363d"
-MUTED = "#7d8590"
-INK = "#c9d1d9"
-KEY = "#ffa657"      # orange keys
-SECTION = "#58a6ff"  # blue section headers
-GREEN = "#3fb950"
-ACCENT = "#22d3ee"
+MUTED = "#8b949e"
+INK = "#e6edf3"
+KEY = "#22d3ee"      # cyan keys
+SECTION = "#a78bfa"  # purple section headers
+GREEN = "#10b981"    # emerald highlights
+ACCENT = "#38bdf8"   # sky blue accent
 
 # content model
 ROWS = [
@@ -62,9 +62,9 @@ def rise(inner, i):
     if STATIC:
         return f"<g>{inner}</g>"
     delay = 0.15 + i * 0.06
-    return (f'<g opacity="0" transform="translate(0,5)">{inner}'
-            f'<animate attributeName="opacity" from="0" to="1" begin="{delay:.2f}s" dur="0.4s" fill="freeze"/>'
-            f'<animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" '
+    return (f'<g opacity="1">{inner}'
+            f'<animate attributeName="opacity" values="0;1" keyTimes="0;1" begin="{delay:.2f}s" dur="0.4s" fill="freeze"/>'
+            f'<animateTransform attributeName="transform" type="translate" values="0 5; 0 0" keyTimes="0;1" '
             f'begin="{delay:.2f}s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>')
 
 

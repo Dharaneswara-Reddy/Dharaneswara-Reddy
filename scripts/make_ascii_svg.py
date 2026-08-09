@@ -42,11 +42,12 @@ CANVAS_W = ART_W + PAD * 2
 CANVAS_H = TITLEBAR_H + ART_H + STATUS_H + PAD
 
 BG = "#0d1117"
-BG2 = "#111722"
+BG2 = "#0a101f"
 FRAME = "#30363d"
-TITLE_TEXT = "#7d8590"
-INK = "#c9d1d9"
-CURSOR = "#c9d1d9"
+TITLE_TEXT = "#8b949e"
+INK = "#e6edf3"
+CYAN = "#22d3ee"
+CURSOR = "#22d3ee"
 
 # reveal timing (one-shot; a cursor rasters top -> bottom)
 ROW_DUR = 0.11
@@ -116,8 +117,8 @@ for ry, line in enumerate(rows_txt):
         continue
 
     parts.append(
-        f'<clipPath id="r{ry}"><rect x="{PAD}" y="{row_y:.1f}" height="{CELL_H}" width="0">'
-        f'<animate attributeName="width" from="0" to="{ART_W}" begin="{delay:.3f}s" '
+        f'<clipPath id="r{ry}"><rect x="{PAD}" y="{row_y:.1f}" height="{CELL_H}" width="{ART_W}">'
+        f'<animate attributeName="width" values="0;{ART_W}" keyTimes="0;1" begin="{delay:.3f}s" '
         f'dur="{ROW_DUR:.2f}s" fill="freeze"/></rect></clipPath>'
     )
     parts.append(f'<g clip-path="url(#r{ry})">{text}</g>')
@@ -129,13 +130,13 @@ for ry, line in enumerate(rows_txt):
         f'<set attributeName="opacity" to="0" begin="{delay+ROW_DUR:.3f}s"/></rect>'
     )
 
-# status bar with a steady blinking cursor
+# status bar with a steady blinking cyan cursor
 status_line_y = TITLEBAR_H + ART_H + PAD * 0.35
 status_y = status_line_y + 19
 parts.append(f'<line x1="0" y1="{status_line_y:.1f}" x2="{CANVAS_W}" y2="{status_line_y:.1f}" stroke="{FRAME}"/>')
 parts.append(f'<text x="{PAD}" y="{status_y:.1f}" fill="{TITLE_TEXT}" font-size="13">'
-             f'venkat@github:~$ whoami <tspan fill="{INK}">Dharaneswara Reddy</tspan></text>')
-parts.append(f'<rect x="{PAD+260}" y="{status_y-12:.1f}" width="8" height="14" fill="{INK}">'
+             f'venkat@github:~$ whoami <tspan fill="{CYAN}" font-weight="600">Dharaneswara Reddy</tspan></text>')
+parts.append(f'<rect x="{PAD+352}" y="{status_y-12:.1f}" width="8" height="14" fill="{CYAN}">'
              f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
              f'dur="1s" repeatCount="indefinite"/></rect>')
 
