@@ -62,7 +62,7 @@ def build_data(days):
     for d in days: k = d["date"][:7]; monthly[k] = monthly.get(k, 0) + d["count"]
     return {
         "username": USERNAME,
-        "generated_at": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "range": {"start": days[0]["date"], "end": days[-1]["date"]},
         "total_contributions": total, "active_days": active,
         "avg_per_active_day": round(total / active, 1) if active else 0,
