@@ -1,22 +1,22 @@
 {
   "username": "Dharaneswara-Reddy",
-  "generated_at": "2026-08-25T07:06:50Z",
+  "generated_at": "2026-08-26T07:07:08Z",
   "range": {
     "start": "2025-08-24",
+    "end": "2026-08-26"
+  },
+  "total_contributions": 697,
+  "active_days": 133,
+  "avg_per_active_day": 5.2,
+  "current_streak": {
+    "length": 38,
+    "start": "2026-07-19",
     "end": "2026-08-25"
   },
-  "total_contributions": 696,
-  "active_days": 132,
-  "avg_per_active_day": 5.3,
-  "current_streak": {
-    "length": 37,
-    "start": "2026-07-19",
-    "end": "2026-08-24"
-  },
   "longest_streak": {
-    "length": 37,
+    "length": 38,
     "start": "2026-07-19",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
   "best_day": {
     "date": "2026-08-21",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 346
+      "total": 347
     }
   ],
   "days": [
@@ -1543,6 +1543,10 @@
     },
     {
       "date": "2026-08-25",
+      "count": 1
+    },
+    {
+      "date": "2026-08-26",
       "count": 0
     }
   ]
