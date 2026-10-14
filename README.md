@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/light.svg">
-  <img alt="Dharaneswara Reddy — Terminal Profile" src="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg">
+  <img alt="Venkata Dharaneswara Reddy Palle — AI/ML Engineer, open to work" src="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg">
 </picture>
 
 <br/>
