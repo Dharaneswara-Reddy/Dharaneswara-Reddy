@@ -10,21 +10,6 @@
 <br/>
 <br/>
 
-<!-- ===== WHO AND WHAT ===== -->
-
-<div align="center">
-
-**AI/ML Engineer** · Final-year B.Tech in Artificial Intelligence & Data Science, Amrita Bengaluru (2027)
-
-I build machine learning systems end to end — not models in notebooks.<br/>
-Measured before they are trusted, calibrated before they are shipped, monitored after.
-
-**Open to work — AI/ML engineering roles**
-
-</div>
-
-<br/>
-
 <!-- ===== WHAT I AM BUILDING ===== -->
 
 ### What I'm building
