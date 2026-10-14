@@ -8,15 +8,15 @@
 <!-- ===== left: who, in a scale that drops ===== -->
 <text x="68" y="96" font-size="13" font-weight="700" letter-spacing="3.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" fill="#FF4D2E">AI / ML ENGINEER</text>
 
-<text x="64" y="172" font-size="52" font-weight="700" letter-spacing="-1" fill="#12121A">Venkata Dharaneswara</text>
-<text x="64" y="228" font-size="52" font-weight="700" letter-spacing="-1" fill="#12121A">Reddy Palle</text>
+<text x="64" y="172" font-size="52" font-weight="700" letter-spacing="-1" textLength="580" lengthAdjust="spacingAndGlyphs" fill="#12121A">Venkata Dharaneswara</text>
+<text x="64" y="228" font-size="52" font-weight="700" letter-spacing="-1" textLength="318" lengthAdjust="spacingAndGlyphs" fill="#12121A">Reddy Palle</text>
 
 <line x1="68" y1="262" x2="172" y2="262" stroke="#FF4D2E" stroke-width="5"/>
 
-<text x="68" y="300" font-size="16" fill="#6B675E">I build machine learning systems end to end — measured before</text>
-<text x="68" y="324" font-size="16" fill="#6B675E">they are trusted, calibrated before they ship, monitored after.</text>
+<text x="68" y="300" font-size="16" textLength="556" lengthAdjust="spacingAndGlyphs" fill="#6B675E">I build machine learning systems end to end — measured before</text>
+<text x="68" y="324" font-size="16" textLength="556" lengthAdjust="spacingAndGlyphs" fill="#6B675E">they are trusted, calibrated before they ship, monitored after.</text>
 
-<text x="68" y="358" font-size="13.5" fill="#6B675E">Final year, B.Tech Artificial Intelligence &amp; Data Science · Amrita Bengaluru · 2027</text>
+<text x="68" y="358" font-size="13.5" textLength="568" lengthAdjust="spacingAndGlyphs" fill="#6B675E">Final year, B.Tech Artificial Intelligence &amp; Data Science · Amrita Bengaluru · 2027</text>
 
 <!-- open to work -->
 <rect x="64" y="382" width="190" height="34" rx="17" fill="none" stroke="#00A86B"/>

@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/light.svg">
-  <img alt="Venkata Dharaneswara Reddy Palle — AI/ML Engineer, open to work" src="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/light.svg?v=4">
+  <img alt="Venkata Dharaneswara Reddy Palle — AI/ML Engineer, open to work" src="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/main/dark.svg?v=4">
 </picture>
 
 <br/>

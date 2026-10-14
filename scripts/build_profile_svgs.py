@@ -82,15 +82,15 @@ def build(c):
 <!-- ===== left: who, in a scale that drops ===== -->
 <text x="68" y="96" font-size="13" font-weight="700" letter-spacing="3.6" font-family="{MONO}" fill="{BLOCKS[1]}">AI / ML ENGINEER</text>
 
-<text x="64" y="172" font-size="52" font-weight="700" letter-spacing="-1" fill="{c['ink']}">Venkata Dharaneswara</text>
-<text x="64" y="228" font-size="52" font-weight="700" letter-spacing="-1" fill="{c['ink']}">Reddy Palle</text>
+<text x="64" y="172" font-size="52" font-weight="700" letter-spacing="-1" textLength="580" lengthAdjust="spacingAndGlyphs" fill="{c['ink']}">Venkata Dharaneswara</text>
+<text x="64" y="228" font-size="52" font-weight="700" letter-spacing="-1" textLength="318" lengthAdjust="spacingAndGlyphs" fill="{c['ink']}">Reddy Palle</text>
 
 <line x1="68" y1="262" x2="172" y2="262" stroke="{BLOCKS[1]}" stroke-width="5"/>
 
-<text x="68" y="300" font-size="16" fill="{c['dim']}">I build machine learning systems end to end — measured before</text>
-<text x="68" y="324" font-size="16" fill="{c['dim']}">they are trusted, calibrated before they ship, monitored after.</text>
+<text x="68" y="300" font-size="16" textLength="556" lengthAdjust="spacingAndGlyphs" fill="{c['dim']}">I build machine learning systems end to end — measured before</text>
+<text x="68" y="324" font-size="16" textLength="556" lengthAdjust="spacingAndGlyphs" fill="{c['dim']}">they are trusted, calibrated before they ship, monitored after.</text>
 
-<text x="68" y="358" font-size="13.5" fill="{c['dim']}">Final year, B.Tech Artificial Intelligence &amp; Data Science · Amrita Bengaluru · 2027</text>
+<text x="68" y="358" font-size="13.5" textLength="568" lengthAdjust="spacingAndGlyphs" fill="{c['dim']}">Final year, B.Tech Artificial Intelligence &amp; Data Science · Amrita Bengaluru · 2027</text>
 
 <!-- open to work -->
 <rect x="64" y="382" width="190" height="34" rx="17" fill="none" stroke="{BLOCKS[3]}"/>
