@@ -19,7 +19,7 @@
 I build machine learning systems end to end — not models in notebooks.<br/>
 Measured before they are trusted, calibrated before they are shipped, monitored after.
 
-**Open to AI/ML engineering roles · Bengaluru or remote**
+**Open to work — AI/ML engineering roles**
 
 </div>
 
@@ -78,21 +78,6 @@ Measured before they are trusted, calibrated before they are shipped, monitored 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Dharaneswara-Reddy&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Dharaneswara-Reddy&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
-
-</div>
-
-<br/>
-<br/>
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/output/snake-light.svg" />
-  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Dharaneswara-Reddy/Dharaneswara-Reddy/output/snake-dark.svg" />
 </picture>
 
 </div>
